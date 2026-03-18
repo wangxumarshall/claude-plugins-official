@@ -11,11 +11,11 @@ A curated directory of high-quality plugins for Claude Code.
 
 ## Installation
 
-Plugins can be installed directly from this marketplace via Claude Code's plugin system. run `/plugin marketplace add anthropics/claude-code`
+- Plugins can be installed directly from this marketplace via Claude Code's plugin system. run `/plugin marketplace add anthropics/claude-code`
 
-To install, run `/plugin install {plugin-name}@claude-plugins-official`
+- To install, run `/plugin install {plugin-name}@claude-plugins-official`
 
-or browse for the plugin in `/plugin > Discover`
+> or browse for the plugin in `/plugin > Discover`
 
 ## Contributing
 
